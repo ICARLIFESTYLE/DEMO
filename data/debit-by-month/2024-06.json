@@ -1,0 +1,50 @@
+[
+  {
+    "stable_id": "debit_35e574d30490d8f2",
+    "source": "debit",
+    "date": "2024-06-28",
+    "month": "2024-06",
+    "account": "CHASE_BUSINESS",
+    "card_member": null,
+    "amount": -15,
+    "description_raw": "MONTHLY SERVICE FEE",
+    "description_norm": "MONTHLY SERVICE FEE",
+    "type_raw": "FEE_TRANSACTION",
+    "details_raw": "DEBIT",
+    "balance_raw": "1529.82",
+    "check_number": "",
+    "raw_row_index": 1497
+  },
+  {
+    "stable_id": "debit_d0c9ce14be627655",
+    "source": "debit",
+    "date": "2024-06-26",
+    "month": "2024-06",
+    "account": "CHASE_BUSINESS",
+    "card_member": null,
+    "amount": 700,
+    "description_raw": "Zelle payment from YUCONG MA WFCT0SCRY9D8",
+    "description_norm": "Zelle payment from YUCONG MA WFCT0SCRY9D8",
+    "type_raw": "PARTNERFI_TO_CHASE",
+    "details_raw": "CREDIT",
+    "balance_raw": "1544.82",
+    "check_number": "",
+    "raw_row_index": 1498
+  },
+  {
+    "stable_id": "debit_bb6589a8addf8ef9",
+    "source": "debit",
+    "date": "2024-06-24",
+    "month": "2024-06",
+    "account": "CHASE_BUSINESS",
+    "card_member": null,
+    "amount": -97.95,
+    "description_raw": "CENTRALDISPATCH.COM 858-259-6084 NY 06/22",
+    "description_norm": "CENTRALDISPATCH.COM 858-259-6084 NY 06/22",
+    "type_raw": "DEBIT_CARD",
+    "details_raw": "DEBIT",
+    "balance_raw": "844.82",
+    "check_number": "",
+    "raw_row_index": 1499
+  }
+]

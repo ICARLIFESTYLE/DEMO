@@ -1,0 +1,18 @@
+[
+  {
+    "stable_id": "debit_7f99f3c7859ea617",
+    "source": "debit",
+    "date": "2024-02-29",
+    "month": "2024-02",
+    "account": "CHASE_BUSINESS",
+    "card_member": null,
+    "amount": -15,
+    "description_raw": "MONTHLY SERVICE FEE",
+    "description_norm": "MONTHLY SERVICE FEE",
+    "type_raw": "FEE_TRANSACTION",
+    "details_raw": "DEBIT",
+    "balance_raw": "164.54",
+    "check_number": "",
+    "raw_row_index": 1499
+  }
+]
